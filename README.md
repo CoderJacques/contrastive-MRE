@@ -21,3 +21,18 @@ torch=2.4.1
 torchvision=0.12.0+cu113
 
 wandb=0.16.1
+
+## Getting started
+### Launch the environment
+1. Create a conda environment to install all the necessary Python packages via:
+```
+conda create --name <env_name> --file requirements.txt
+```
+2. Activate the conda environment via:
+```
+conda activate env_name
+```
+
+## Useful links
+
+[preprint](https://www.biorxiv.org/content/10.1101/2025.03.25.645330v1.abstract)
